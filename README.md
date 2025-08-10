@@ -78,7 +78,7 @@ The trained model achieved an accuracy of **93%** and effectively predicted emot
 
 ## 📄 Final Report
 
-You can read the full technical and research write-up in the [`report`](./report/PSM1_B032010378_NURSYUHADABINTIAZHAR.pdf) folder.
+[📄 Final Year Project Report](./report/PSM%202%20FINAL%20REPORT%20NUR%20SYUHADA%20BINTI%20AZHAR.pdf)
 
 ---
 
