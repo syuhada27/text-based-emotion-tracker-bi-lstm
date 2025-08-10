@@ -2,6 +2,9 @@
 
 This project was developed as part of my Final Year Project for the Bachelor of Computer Science (Artificial Intelligence) at Universiti Teknikal Malaysia Melaka (UTeM). The system aims to help individuals monitor and track their emotions based on the text they input into a web-based application.
 
+> ⚠️ **Note**: The original source code is not included in this repository due to loss of code source. SSSSSSIINNNNNNNNIIIII  
+> This repo contains documentation, screenshots, and the full technical report.
+
 ## 📌 Objective
 
 - To explore emotion recognition techniques based on text.
@@ -45,12 +48,24 @@ The model was integrated into a web application using **Flask**, where users cou
 - `README.md`: Project overview (this file).
 - *(Code not available due to file loss, but full project flow is detailed in the report.)*
 
-## 📷 Screenshots (Optional)
+## 🖼️ System Architecture
+*(Replace this with your actual diagram from the report)*
+![System Architecture](screenshots/system_architecture.png)
 
-If available, include:
-- Architecture diagram
-- Website UI mockup
-- Emotion prediction chart
+## 💻 User Interface
+*(Replace these with your actual UI screenshots)*
+- Emotion journal input page
+- Predicted emotion display
+- Emotion trend visualization
+
+Example:  
+![UI Example](screenshots/ui_example.png)
+
+## 📈 Results & Evaluation
+*(Replace this with your result charts from the report)*  
+The trained model achieved an accuracy of **XX%** and effectively predicted emotions across the five target categories.
+
+![Results Chart](screenshots/results_chart.png)
 
 ## 🧑‍⚕️ Target Users
 
@@ -63,4 +78,7 @@ You can read the full technical and research write-up in the [`report`](./report
 
 ---
 
-*Developed by Nur Syuhada Binti Azhar — 2023*
+*Developed by Nur Syuhada Binti Azhar*
+Bachelor of Computer Science (Artificial Intelligence)  
+Universiti Teknikal Malaysia Melaka (UTeM) — 2023
+
