@@ -2,7 +2,7 @@
 
 This project was developed as part of my Final Year Project for the Bachelor of Computer Science (Artificial Intelligence) at Universiti Teknikal Malaysia Melaka (UTeM). The system aims to help individuals monitor and track their emotions based on the text they input into a web-based application.
 
-> ⚠️ **Note**: The original source code is not included in this repository due to loss of code source. SSSSSSIINNNNNNNNIIIII  
+> ⚠️ **Note**: The original source code is not included in this repository due to file loss. 
 > This repo contains documentation, screenshots, and the full technical report.
 
 ## 📌 Objective
@@ -49,24 +49,27 @@ The model was integrated into a web application using **Flask**, where users cou
 - *(Code not available due to file loss, but full project flow is detailed in the report.)*
 
 ## 🖼️ System Architecture
-*(Replace this with your actual diagram from the report)*
 
-![System Architecture](screenshots/system_architecture.png)
+The system architecture of this project:
+
+![system_architecture](https://github.com/user-attachments/assets/f2e88968-8387-4249-bccf-9120e630867c)
 
 ## 💻 User Interface
-*(Replace these with your actual UI screenshots)*
-- Emotion journal input page
-- Predicted emotion display
-- Emotion trend visualization
 
-Example:  
-![UI Example](screenshots/ui_example.png)
+Main page of the web application:
+
+<img width="599" height="281" alt="homepage" src="https://github.com/user-attachments/assets/7978126f-1ed5-4af2-bfdd-235ae86f8342" />
+
+
+When user enter text, the "intensity" options are available to choose:
+
+<img width="544" height="465" alt="emotion prediction" src="https://github.com/user-attachments/assets/8a54fd01-97f5-43b7-8a9a-ccf627fe857c" />
 
 ## 📈 Results & Evaluation
-*(Replace this with your result charts from the report)*  
-The trained model achieved an accuracy of **XX%** and effectively predicted emotions across the five target categories.
 
-![Results Chart](screenshots/results_chart.png)
+The trained model achieved an accuracy of **93%** and effectively predicted emotions across the five target categories:
+
+<img width="451" height="220" alt="Picture12" src="https://github.com/user-attachments/assets/5792d941-47f0-4b0e-8409-15b13c3b3e3d" />
 
 ## 🧑‍⚕️ Target Users
 
