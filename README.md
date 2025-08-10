@@ -50,6 +50,7 @@ The model was integrated into a web application using **Flask**, where users cou
 
 ## 🖼️ System Architecture
 *(Replace this with your actual diagram from the report)*
+
 ![System Architecture](screenshots/system_architecture.png)
 
 ## 💻 User Interface
@@ -79,6 +80,8 @@ You can read the full technical and research write-up in the [`report`](./report
 ---
 
 *Developed by Nur Syuhada Binti Azhar*
+
 Bachelor of Computer Science (Artificial Intelligence)  
+
 Universiti Teknikal Malaysia Melaka (UTeM) — 2023
 
